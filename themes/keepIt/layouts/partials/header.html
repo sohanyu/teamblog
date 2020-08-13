@@ -1,0 +1,106 @@
+<style type="text/css">}.header__inner {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin:0 auto;
+    width:760px;
+    max-width:100%
+}
+
+.logo {
+    display:flex;
+    align-items:center;
+    text-decoration:none;
+    font-weight:bold;
+    font-display:auto;
+    font-family:monospace,monospace
+}
+.logo img {
+    height:44px
+}
+.logo__mark {
+    margin-right:5px
+}
+.logo__text {
+    font-size:1.125rem
+}
+.logo__cursor {
+    display:inline-block;
+    width:10px;
+    height:1rem;
+    background:#fe5186;
+    margin-left:5px;
+    border-radius:1px;
+    animation:cursor 1s infinite
+}
+@media (prefers-reduced-motion:reduce) {
+    .logo__cursor {
+    animation:none
+}
+}@keyframes cursor {
+    0% {
+    opacity:0
+}
+50% {
+    opacity:1
+}
+100% {
+    opacity:0
+}
+</style>
+
+<nav class="navbar">
+    <div class="container">
+        <div class="navbar-header header-logo">
+        	<!-- <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> -->
+
+<a href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL }}{{ end }}" style="text-decoration: none;">
+    <div class="logo">
+       {{ .Site.Title }} {{ if .Site.Params.Logo.path }}
+            <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
+        {{ else }}
+            <span class="logo__mark"> &nbsp;&nbsp;&nbsp;> </span>
+            <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}{{ else }}hello{{ end }}</span>
+            <span class="logo__cursor" style=
+                  "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
+                   {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
+                   {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
+            </span>
+        {{ end }}
+    </div>
+</a>
+
+
+
+        </div>
+        <div class="menu navbar-right">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}"
+                  {{ if eq .Title "Wiki" }}  
+
+                  target="_blank" {{end}}
+
+                >{{ .Name }}</a>
+                {{ end }}
+                <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile" id="nav-mobile" style="display: none">
+     <div class="container">
+        <div class="navbar-header">
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;<a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></div>
+            <div class="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+     
+          <div class="menu" id="mobile-menu">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                {{ end }}
+        </div>
+    </div>
+</nav>

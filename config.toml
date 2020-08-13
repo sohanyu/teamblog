@@ -1,0 +1,66 @@
+baseURL = "http://ninini.net/"
+languageCode = "zh-cn"
+title = "Cool Team"
+theme = "keepIt"
+
+[params]
+	home_mode = "1" # post or other
+    subtitle = "酷得实验室始建于2020年8月，是一个年轻基情的技术团队，我们面向全栈技术体系，致力于沉淀与分享。"
+    avatar = "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2418098327,3851255663&fm=26&gp=0.jpg"
+    since = "2017"
+    author = "Cool Team"
+
+[params.Social]
+     Github = "han"
+     --LinkedIn = "1"
+     --Twitter = "1"
+     --Instagram = "1"
+     Email = "1"
+     --Facebook = "1"
+     --Gitlab = "1"
+     Douban = "1"
+     Zhihu = "1"
+     Weibo = "1"
+
+[params.Logo]
+    logoText = "$ cd /home/"
+
+
+[menu]
+  
+  [[menu.main]]
+    identifier = "Hi"
+    name = "Hi"
+    title = "Hi"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "Blog"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog"
+    weight = 2
+  [[menu.main]]
+    identifier = "Categories"
+    name = "Categories"
+    title = "Categories"
+    url = "/categories/"
+    weight = 3
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    title = "Tags"
+    url = "/tags/"
+    weight = 4
+   [[menu.main]]
+    identifier = "Wiki"
+    name = "Wiki"
+    title = "Wiki"
+    url = "http://ninini.net/wiki/"
+    weight = 5
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    title = "About"
+    url = "/about/about"
+    weight = 6
