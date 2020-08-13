@@ -1,17 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
+    <url>
+      <loc>http://ninini.net/tags/about/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
   
-  <url>
-    <loc>http://example.org/</loc>
-  </url>
+    <url>
+      <loc>http://ninini.net/about/about/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
   
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
+    <url>
+      <loc>http://ninini.net/about/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/blog/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/categories/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/categories/development/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/tags/hugo/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/categories/introduce/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/blog/1/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/tags/menu/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/tags/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/categories/vim/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/blog/1%E7%9A%84%E5%89%AF%E6%9C%AC/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/tags/%E5%93%88%E5%93%88%E5%93%88/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://ninini.net/categories/%E5%A5%A5%E6%9C%AF%E5%A4%A7%E5%B8%88/</loc>
+      
+      <lastmod>2020-08-06T12:09:08-04:00</lastmod>
+      
+      
+      
+      
+    </url>
   
 </urlset>
