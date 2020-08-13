@@ -56,7 +56,7 @@ theme = "keepIt"
     identifier = "Wiki"
     name = "Wiki"
     title = "Wiki"
-    url = "http://ninini.net/wiki/"
+    url = "http://wiki.ninini.net/"
     weight = 5
   [[menu.main]]
     identifier = "About"
