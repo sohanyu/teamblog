@@ -1,6 +1,6 @@
 baseURL = "http://ninini.net/"
 languageCode = "zh-cn"
-title = "Cool Team Wow !"
+title = "Cool Team Wow!"
 theme = "keepIt"
 
 [params]
