@@ -20,5 +20,14 @@
       <description>正文内容哈哈哈哈哈哈 嘻嘻嘻嘻</description>
     </item>
     
+    <item>
+      <title>第三篇测试文章</title>
+      <link>http://ninini.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</link>
+      <pubDate>Mon, 06 Aug 2018 12:09:08 -0400</pubDate>
+      
+      <guid>http://ninini.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</guid>
+      <description>正文内容哈哈哈哈哈哈 嘻嘻嘻嘻</description>
+    </item>
+    
   </channel>
 </rss>
