@@ -9,7 +9,4 @@ categories: ["introduce"]
 layout: "single_about"
 ---
 
-正文内容
-正文内容
-正文内容
-正文内容
+这里准备放大家照片
