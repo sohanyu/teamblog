@@ -1,6 +1,6 @@
-baseURL = "http://ninini.net/"
+baseURL = "http://jjsys.net/"
 languageCode = "zh-cn"
-title = "Cool Team Wow !"
+title = "Wow! 加减实验室 Team So Cool!"
 theme = "keepIt"
 
 [params]
@@ -56,7 +56,7 @@ theme = "keepIt"
     identifier = "Wiki"
     name = "Wiki"
     title = "Wiki"
-    url = "http://wiki.ninini.net/"
+    url = "http://wiki.jjsys.net/"
     weight = 5
   [[menu.main]]
     identifier = "About"
