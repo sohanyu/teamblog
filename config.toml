@@ -1,4 +1,5 @@
-baseURL = "http://jjsys.net/"
+#baseURL = "http://blog.jjsys.net/"
+baseURL = "http://blog.ninini.net/"
 languageCode = "zh-cn"
 title = "Wow! 加减实验室 Team So Cool!"
 theme = "keepIt"
@@ -56,7 +57,7 @@ theme = "keepIt"
     identifier = "Wiki"
     name = "Wiki"
     title = "Wiki"
-    url = "http://wiki.jjsys.net/"
+    url = "http://wiki.ninini.net/"
     weight = 5
   [[menu.main]]
     identifier = "About"

@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wow! 加减实验室 Team So Cool! on Wow! 加减实验室 Team So Cool!</title>
-    <link>http://jjsys.net/</link>
+    <link>http://blog.ninini.net/</link>
     <description>Recent content in Wow! 加减实验室 Team So Cool! on Wow! 加减实验室 Team So Cool!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
-    <atom:link href="http://jjsys.net/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ninini.net/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Abouts</title>
-      <link>http://jjsys.net/about/</link>
+      <link>http://blog.ninini.net/about/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://jjsys.net/about/</guid>
+      <guid>http://blog.ninini.net/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogs</title>
-      <link>http://jjsys.net/blog/</link>
+      <link>http://blog.ninini.net/blog/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://jjsys.net/blog/</guid>
+      <guid>http://blog.ninini.net/blog/</guid>
       <description></description>
     </item>
     
