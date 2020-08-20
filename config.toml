@@ -33,7 +33,7 @@ theme = "keepIt"
     identifier = "Hi"
     name = "Hi"
     title = "Hi"
-    url = "/"
+    url = "http://ninini.net"
     weight = 1
   [[menu.main]]
     identifier = "Blog"
@@ -53,15 +53,15 @@ theme = "keepIt"
     title = "Tags"
     url = "/tags/"
     weight = 4
-   [[menu.main]]
-    identifier = "Wiki"
-    name = "Wiki"
-    title = "Wiki"
-    url = "http://wiki.ninini.net/"
-    weight = 5
-  [[menu.main]]
-    identifier = "About"
-    name = "About"
-    title = "About"
-    url = "/about/about"
-    weight = 6
+ #  [[menu.main]]
+ #   identifier = "Wiki"
+ #   name = "Wiki"
+ #   title = "Wiki"
+ #   url = "http://wiki.ninini.net/"
+ #   weight = 5
+#  [[menu.main]]
+#    identifier = "About"
+#    name = "About"
+#   title = "About"
+#   url = "/about/about"
+#    weight = 6
