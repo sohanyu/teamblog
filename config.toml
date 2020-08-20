@@ -1,7 +1,7 @@
 #baseURL = "http://blog.jjsys.net/"
 baseURL = "http://blog.ninini.net/"
 languageCode = "zh-cn"
-title = "Wow! 加减实验室 Team So Cool!"
+title = "Wow! 加减实验室!"
 theme = "keepIt"
 
 [params]
@@ -33,7 +33,7 @@ theme = "keepIt"
     identifier = "Hi"
     name = "Hi"
     title = "Hi"
-    url = "http://ninini.net"
+    url = "/"
     weight = 1
   [[menu.main]]
     identifier = "Blog"
