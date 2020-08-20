@@ -6,7 +6,7 @@ theme = "keepIt"
 
 [params]
 	home_mode = "1" # post or other
-    subtitle = "酷得实验室始建于2020年8月，是一个年轻基情的技术团队，我们面向全栈技术体系，致力于沉淀与分享。"
+    subtitle = "加减实验室始建于2020年8月，是一个年轻基情的技术团队，我们面向全栈技术体系，致力于沉淀与分享，与你一起成长。"
     avatar = "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2418098327,3851255663&fm=26&gp=0.jpg"
     since = "2017"
     author = "Cool Team"
