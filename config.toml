@@ -36,9 +36,9 @@ theme = "keepIt"
     url = "http://ninini.net"
     weight = 1
   [[menu.main]]
-    identifier = "Index"
-    name = "Index"
-    title = "Index"
+    identifier = "Show"
+    name = "Show"
+    title = "Show"
     url = "/"
     weight = 2
   [[menu.main]]
