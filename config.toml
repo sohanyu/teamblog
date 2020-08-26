@@ -45,7 +45,7 @@ theme = "keepIt"
     identifier = "Blog"
     name = "Blog"
     title = "Blog"
-    url = "/blog"
+    url = "/blog/"
     weight = 3
   [[menu.main]]
     identifier = "Categories"
