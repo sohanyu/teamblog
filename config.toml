@@ -1,7 +1,7 @@
 #baseURL = "http://blog.jjsys.net/"
 baseURL = "http://blog.ninini.net/"
 languageCode = "zh-cn"
-title = "少年得到研发部"
+title = "少年得到"
 theme = "keepIt"
 
 [params]
