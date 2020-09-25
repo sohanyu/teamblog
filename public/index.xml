@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>少年得到 on 少年得到</title>
-    <link>http://blog.ninini.net/</link>
+    <link>http://blog.keepgeek.net/</link>
     <description>Recent content in 少年得到 on 少年得到</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
-    <atom:link href="http://blog.ninini.net/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.keepgeek.net/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Abouts</title>
-      <link>http://blog.ninini.net/about/</link>
+      <link>http://blog.keepgeek.net/about/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/about/</guid>
+      <guid>http://blog.keepgeek.net/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogs</title>
-      <link>http://blog.ninini.net/blog/</link>
+      <link>http://blog.keepgeek.net/blog/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/blog/</guid>
+      <guid>http://blog.keepgeek.net/blog/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,4 @@
-#baseURL = "http://blog.jjsys.net/"
-baseURL = "http://blog.ninini.net/"
+baseURL = "http://blog.keepgeek.net/"
 languageCode = "zh-cn"
 title = "少年得到"
 theme = "keepIt"
@@ -33,7 +32,7 @@ theme = "keepIt"
     identifier = "Home"
     name = "Home"
     title = "Home"
-    url = "http://ninini.net"
+    url = "http://keepgeek.net"
     weight = 1
   [[menu.main]]
     identifier = "Show"
@@ -63,7 +62,7 @@ theme = "keepIt"
  #   identifier = "Wiki"
  #   name = "Wiki"
  #   title = "Wiki"
- #   url = "http://wiki.ninini.net/"
+ #   url = "http://wiki.keepgeek.net/"
  #   weight = 6
 #  [[menu.main]]
 #    identifier = "About"

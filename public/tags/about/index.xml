@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on 少年得到</title>
-    <link>http://blog.ninini.net/tags/about/</link>
+    <link>http://blog.keepgeek.net/tags/about/</link>
     <description>Recent content in About on 少年得到</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
     
-	<atom:link href="http://blog.ninini.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.keepgeek.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About us</title>
-      <link>http://blog.ninini.net/about/about/</link>
+      <link>http://blog.keepgeek.net/about/about/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/about/about/</guid>
+      <guid>http://blog.keepgeek.net/about/about/</guid>
       <description>这里准备放大家照片</description>
     </item>
     

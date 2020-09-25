@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VIM on 少年得到</title>
-    <link>http://blog.ninini.net/categories/vim/</link>
+    <link>http://blog.keepgeek.net/categories/vim/</link>
     <description>Recent content in VIM on 少年得到</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
     
-	<atom:link href="http://blog.ninini.net/categories/vim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.keepgeek.net/categories/vim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一篇测试文章</title>
-      <link>http://blog.ninini.net/blog/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>http://blog.keepgeek.net/blog/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/blog/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://blog.keepgeek.net/blog/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description>正文内容哈哈哈哈哈哈 嘻嘻嘻嘻</description>
     </item>
     
     <item>
       <title>表格</title>
-      <link>http://blog.ninini.net/blog/%E8%A1%A8%E6%A0%BC/</link>
+      <link>http://blog.keepgeek.net/blog/%E8%A1%A8%E6%A0%BC/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/blog/%E8%A1%A8%E6%A0%BC/</guid>
+      <guid>http://blog.keepgeek.net/blog/%E8%A1%A8%E6%A0%BC/</guid>
       <description>   可以 可以 开业     哈哈 哈啊 哈哈   方法 方法 方法    </description>
     </item>
     
     <item>
       <title>第三篇测试文章</title>
-      <link>http://blog.ninini.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</link>
+      <link>http://blog.keepgeek.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</link>
       <pubDate>Mon, 06 Aug 2018 12:09:08 -0400</pubDate>
       
-      <guid>http://blog.ninini.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</guid>
+      <guid>http://blog.keepgeek.net/blog/%E7%AC%AC%E4%B8%89%E7%AF%87/</guid>
       <description>正文内容哈哈哈哈哈哈 嘻嘻嘻嘻</description>
     </item>
     
