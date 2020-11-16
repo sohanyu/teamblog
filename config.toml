@@ -1,4 +1,4 @@
-baseURL = "http://blog.keepgeek.net/"
+baseURL = "http://rd-blog.igetcool.com/"
 languageCode = "zh-cn"
 title = "少年得到"
 theme = "keepIt"
@@ -32,7 +32,7 @@ theme = "keepIt"
     identifier = "Home"
     name = "Home"
     title = "Home"
-    url = "http://keepgeek.net"
+    url = "http://rd-blog.igetcool.com"
     weight = 1
   [[menu.main]]
     identifier = "Show"
